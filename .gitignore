@@ -2,4 +2,9 @@ node_modules
 yarn.lock
 .eslintrc.js
 .env
-
+.idea
+.vscode
+bin/
+include/
+lib/
+pyvenv.cfg
